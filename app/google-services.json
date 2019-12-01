@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543961777165",
+    "firebase_url": "https://contact-4292b.firebaseio.com",
+    "project_id": "contact-4292b",
+    "storage_bucket": "contact-4292b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543961777165:android:f6c8fa3ecf6d986ef64144",
+        "android_client_info": {
+          "package_name": "com.nitesh.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543961777165-9m7hrmortrd3t88rf007falne4h7dahe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitesh.contact",
+            "certificate_hash": "0a056bd92b6f201489be29ea166067e2db0ef6bf"
+          }
+        },
+        {
+          "client_id": "543961777165-devlrttip78h87c2921dtnk4j8jjd6bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXt99aDuHVPdhfih057dAZwHSiX0WAcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543961777165-devlrttip78h87c2921dtnk4j8jjd6bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
